@@ -1,0 +1,141 @@
+com/example/fakewechat/ui/login/LoginResult.java
+ com.example.fakewechat.ui.login.LoginResult
+com/example/fakewechat/ui/communicat/adapter/ChatAdapter.java
+ com.example.fakewechat.ui.communicat.adapter.ChatAdapter
+ com.example.fakewechat.ui.communicat.adapter.ChatAdapter$1
+com/example/fakewechat/ui/Friend/FriendAdapter.java
+ com.example.fakewechat.ui.Friend.FriendAdapter
+ com.example.fakewechat.ui.Friend.FriendAdapter$ViewHolder
+com/example/fakewechat/ui/communicat/activity/ChatActivity.java
+ com.example.fakewechat.ui.communicat.activity.ChatActivity
+ com.example.fakewechat.ui.communicat.activity.ChatActivity$1
+ com.example.fakewechat.ui.communicat.activity.ChatActivity$2
+ com.example.fakewechat.ui.communicat.activity.ChatActivity$3
+ com.example.fakewechat.ui.communicat.activity.ChatActivity$3$1
+ com.example.fakewechat.ui.communicat.activity.ChatActivity$4
+com/example/fakewechat/ui/login/LoginFormState.java
+ com.example.fakewechat.ui.login.LoginFormState
+com/example/fakewechat/ui/communicat/util/LogUtil.java
+ com.example.fakewechat.ui.communicat.util.LogUtil
+com/example/fakewechat/ui/Main.java
+ com.example.fakewechat.ui.Main
+com/example/fakewechat/DBLogin.java
+ com.example.fakewechat.DBLogin
+com/example/fakewechat/ui/communicat/widget/CircleImageView.java
+ com.example.fakewechat.ui.communicat.widget.CircleImageView
+com/example/fakewechat/ui/Friend/FriendsActivity.java
+ com.example.fakewechat.ui.Friend.FriendsActivity
+ com.example.fakewechat.ui.Friend.FriendsActivity$1
+ com.example.fakewechat.ui.Friend.FriendsActivity$2
+ com.example.fakewechat.ui.Friend.FriendsActivity$3
+com/example/fakewechat/ui/addressbook/User.java
+ com.example.fakewechat.ui.addressbook.User
+com/example/fakewechat/BuildConfig.java
+ com.example.fakewechat.BuildConfig
+com/example/fakewechat/ui/communicat/util/ChatDB.java
+ com.example.fakewechat.ui.communicat.util.ChatDB
+com/example/fakewechat/ui/home/HomeFragment.java
+ com.example.fakewechat.ui.home.HomeFragment
+com/example/fakewechat/ui/login/LoginViewModel.java
+ com.example.fakewechat.ui.login.LoginViewModel
+com/example/fakewechat/ui/communicat/bean/MsgSendStatus.java
+ com.example.fakewechat.ui.communicat.bean.MsgSendStatus
+com/example/fakewechat/ui/communicat/util/ChatUiHelper.java
+ com.example.fakewechat.ui.communicat.util.ChatUiHelper
+ com.example.fakewechat.ui.communicat.util.ChatUiHelper$1
+ com.example.fakewechat.ui.communicat.util.ChatUiHelper$2
+ com.example.fakewechat.ui.communicat.util.ChatUiHelper$3
+com/example/fakewechat/ui/communicat/bean/MsgType.java
+ com.example.fakewechat.ui.communicat.bean.MsgType
+com/example/fakewechat/ui/notifications/NotificationsFragment.java
+ com.example.fakewechat.ui.notifications.NotificationsFragment
+ com.example.fakewechat.ui.notifications.NotificationsFragment$1
+com/example/fakewechat/ui/communicat/widget/StateButton.java
+ com.example.fakewechat.ui.communicat.widget.StateButton
+com/example/fakewechat/DBregister.java
+ com.example.fakewechat.DBregister
+com/example/fakewechat/ui/home/MyAdapter.java
+ com.example.fakewechat.ui.home.MyAdapter
+com/example/fakewechat/ui/Friend/Timeutil.java
+ com.example.fakewechat.ui.Friend.Timeutil
+com/example/fakewechat/ui/addressbook/SortAdapter.java
+ com.example.fakewechat.ui.addressbook.SortAdapter
+ com.example.fakewechat.ui.addressbook.SortAdapter$ViewHolder
+com/example/fakewechat/ui/login/LoginActivity.java
+ com.example.fakewechat.ui.login.LoginActivity
+ com.example.fakewechat.ui.login.LoginActivity$1
+ com.example.fakewechat.ui.login.LoginActivity$2
+ com.example.fakewechat.ui.login.LoginActivity$3
+ com.example.fakewechat.ui.login.LoginActivity$4
+ com.example.fakewechat.ui.login.LoginActivity$5
+ com.example.fakewechat.ui.login.LoginActivity$5$1
+ com.example.fakewechat.ui.login.LoginActivity$6
+com/example/fakewechat/ui/register/ActivityRegister.java
+ com.example.fakewechat.ui.register.ActivityRegister
+ com.example.fakewechat.ui.register.ActivityRegister$1
+ com.example.fakewechat.ui.register.ActivityRegister$1$1
+ com.example.fakewechat.ui.register.ActivityRegister$2
+com/example/fakewechat/ui/home/DataUtils.java
+ com.example.fakewechat.ui.home.DataUtils
+com/example/fakewechat/ui/home/FriendMode.java
+ com.example.fakewechat.ui.home.FriendMode
+com/example/fakewechat/MainActivity.java
+ com.example.fakewechat.MainActivity
+ com.example.fakewechat.MainActivity$1
+ com.example.fakewechat.MainActivity$2
+ com.example.fakewechat.MainActivity$2$1
+com/example/fakewechat/ui/communicat/bean/TextMsgBody.java
+ com.example.fakewechat.ui.communicat.bean.TextMsgBody
+com/example/fakewechat/ui/addressbook/SideBar.java
+ com.example.fakewechat.ui.addressbook.SideBar
+ com.example.fakewechat.ui.addressbook.SideBar$ISideBarSelectCallBack
+com/example/fakewechat/ui/Friend/SendFriendsActivity.java
+ com.example.fakewechat.ui.Friend.SendFriendsActivity
+ com.example.fakewechat.ui.Friend.SendFriendsActivity$1
+ com.example.fakewechat.ui.Friend.SendFriendsActivity$2
+com/example/fakewechat/data/model/LoggedInUser.java
+ com.example.fakewechat.data.model.LoggedInUser
+com/example/fakewechat/ui/addressbook/userDao.java
+ com.example.fakewechat.ui.addressbook.userDao
+com/example/fakewechat/ui/communicat/bean/MsgBody.java
+ com.example.fakewechat.ui.communicat.bean.MsgBody
+com/example/fakewechat/ui/addressbook/AddressbookFragment.java
+ com.example.fakewechat.ui.addressbook.AddressbookFragment
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$1
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$2
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$3
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$3$1
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$3$2
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$4
+ com.example.fakewechat.ui.addressbook.AddressbookFragment$5
+com/example/fakewechat/data/LoginRepository.java
+ com.example.fakewechat.data.LoginRepository
+com/example/fakewechat/ui/login/LoginViewModelFactory.java
+ com.example.fakewechat.ui.login.LoginViewModelFactory
+com/example/fakewechat/data/Result.java
+ com.example.fakewechat.data.Result
+ com.example.fakewechat.data.Result$1
+ com.example.fakewechat.data.Result$Error
+ com.example.fakewechat.data.Result$Success
+com/example/fakewechat/ui/communicat/bean/Message.java
+ com.example.fakewechat.ui.communicat.bean.Message
+com/example/fakewechat/ui/login/LoggedInUserView.java
+ com.example.fakewechat.ui.login.LoggedInUserView
+com/example/fakewechat/ui/my/myFragment.java
+ com.example.fakewechat.ui.my.myFragment
+ com.example.fakewechat.ui.my.myFragment$1
+com/example/fakewechat/ui/addressbook/Cn2Spell.java
+ com.example.fakewechat.ui.addressbook.Cn2Spell
+com/example/fakewechat/data/LoginDataSource.java
+ com.example.fakewechat.data.LoginDataSource
+com/example/fakewechat/ui/home/FriendItem.java
+ com.example.fakewechat.ui.home.FriendItem
+ com.example.fakewechat.ui.home.FriendItem$1
+ com.example.fakewechat.ui.home.FriendItem$2
+com/example/fakewechat/ui/communicat/widget/SetPermissionDialog.java
+ com.example.fakewechat.ui.communicat.widget.SetPermissionDialog
+ com.example.fakewechat.ui.communicat.widget.SetPermissionDialog$OnConfirmCancelClickListener
+com/example/fakewechat/ui/home/ShowDB.java
+ com.example.fakewechat.ui.home.ShowDB
+com/example/fakewechat/ui/Friend/Friend.java
+ com.example.fakewechat.ui.Friend.Friend
